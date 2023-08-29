@@ -8,7 +8,7 @@ En archivo "querys.sql" se incluyen los siguientes puntos solicitados en el fina
 • Listar Número, Fecha (payment_date) y Total (amount) de todas las “payment”.
 • Listar todas las “film” del año 2006 que contengan un (rental_rate) mayor a 4.0.
 
-5. Realiza un Diccionario de datos que contenga el nombre de las tablas y columnas, si
+6. Realiza un Diccionario de datos que contenga el nombre de las tablas y columnas, si
 éstas pueden ser nulas, y su tipo de dato correspondiente
 
 
